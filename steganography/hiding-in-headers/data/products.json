@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "name": "The best socks",
+        "price": 24.99,
+        "description": "Suitable for christmas. We think.",
+        "image_url": "/static/img/socks-1.webp",
+        "reviews": [ "[John Doe] - 0. Amazing design, Built to last, and Clearly engineered for Durability. 1. Easy to set up and use, though a slight Flag in performance during high-demand tasks. 2. Great for daily use, but a little on the higher end in terms of price. 3. Still, It offers incredible features that justify the investment. 4. The JOINT quality=solid. 5. the Key aspects are well thought out. 6. Lightweight yet Muscular in terms of power. 7. Nice balance between form and function, though optional extras could add more Value. 8. Price is High, but the Quality matches it. 9. A Reliable product with solid customer service. 10. Support is responsive, and overall, it's a very trustworthy choice. Unfortunately, it could use a bit more versatility in customization. Would LOVE more color options or features. Xceptional performance despite minor flaws. You will be satisfied if you prioritize quality over cost. Zero regrets in the long run." ]
+    }
+]
