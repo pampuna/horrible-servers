@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "The best socks",
+        "price": 24.99,
+        "description": "Suitable for christmas. We think.",
+        "image_url": "/static/img/socks-1.png"
+    }
+]
